@@ -39,9 +39,11 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Matthis DoQuocBao - [@twitter](https://twitter.com/twitter_handle) - mdoquocb@icloud.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/Ticafblanc/Ticafblanc)
+Current project Link : [https://github.com/Ticafblanc/42-cursus_get_next_line](https://github.com/Ticafblanc/42-cursus_get_next_line)
+
+Current project Link : [https://github.com/Ticafblanc/42-cursus_ft_printf](https://github.com/Ticafblanc/42-cursus_ft_printf)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
