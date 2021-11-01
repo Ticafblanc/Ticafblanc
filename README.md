@@ -41,7 +41,7 @@
 
 ## Contact
 
-Matthis DoQuocBao - [@twitter](https://twitter.com/twitter_handle) - mdoquocb@icloud.com
+Matthis DoQuocBao - [@linkedin](https://www.linkedin.com/in/matthis-doquocbao-a4a381192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFAdg5ztbRrCeqrtb9n2dGw%3D%3D) - mdoquocb@icloud.com
 
 Current project Link : [https://github.com/Ticafblanc/42-cursus_get_next_line](https://github.com/Ticafblanc/42-cursus_get_next_line)
 
