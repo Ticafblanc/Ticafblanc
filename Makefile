@@ -10,6 +10,8 @@
 #                                                                              #
 # **************************************************************************** #
 
+all: libft push_swap pipex
+
 libft:
 		@git clone --recurse-submodules git@github.com:Ticafblanc/libft.git
 
@@ -18,5 +20,13 @@ push_swap:
 
 pipex:
 		@git clone --recurse-submodules git@github.com:Ticafblanc/pipex.git
+
+clean:
+	@rm -rf libft push_swap pipex
+
+push:
+	@git add .
+	@git commit -m "push du makfile"
+	@git push
 
 .PHONY :	libft push_swap pipex
